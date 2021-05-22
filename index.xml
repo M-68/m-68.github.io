@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M68</title>
+    <link>https://example.com/</link>
+    <description>Recent content on M68</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 May 2021 01:12:20 +0530</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to The M68 Project</title>
+      <link>https://example.com/posts/introduction/</link>
+      <pubDate>Sun, 23 May 2021 01:12:20 +0530</pubDate>
+      
+      <guid>https://example.com/posts/introduction/</guid>
+      <description>Welcome to the M68 Project  M68 aims to integrate students with the research culture with organizations and people in academia globally.
+ We are a group of students on a mission to build the biggest network of decentralised knowledge base of resources/opportunities/people with the purpose of leveraging it to advance the state of Mankind&amp;rsquo;s Consciousness. We bring together people from all walks of life, working on all fields of science/tech/artcommerce, and augmenting them with the tools and possibilites to make the impossible, possible.</description>
+    </item>
+    
+  </channel>
+</rss>
